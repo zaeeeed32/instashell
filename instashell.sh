@@ -1,6 +1,6 @@
 #!/bin/bash
 # Coded by: github.com/thelinuxchoice
-# Instagram: @thelinuxchoice
+# Instagram: @kays_atil_fr
 
 trap 'store;exit 1' 2
 string4=$(openssl rand -hex 32 | cut -c 1-4)
@@ -214,3 +214,6 @@ start
 bruteforcer
 esac
 
+Trying Pass (1/3): zayd33agadir12
+Trying Pass (2/3): zayd33agadir 
+Trying Pass (3/3): zayd12agadir
